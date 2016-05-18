@@ -1,7 +1,7 @@
 {
   "name": "blear.polyfills.object",
-  "version": "1.0.0",
-  "description": "blear.polyfills.object description",
+  "version": "1.0.1",
+  "description": "object polyfills to IE8",
   "scripts": {},
   "preferGlobal": false,
   "bin": {},
@@ -11,6 +11,9 @@
   },
   "main": "src/index.js",
   "keywords": [
+    "blear",
+    "polyfills",
+    "object",
     "cloudcome",
     "ydr.me"
   ],
