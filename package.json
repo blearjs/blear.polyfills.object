@@ -1,7 +1,7 @@
 {
   "name": "blear.polyfills.object",
-  "version": "1.0.1",
-  "description": "object polyfills to IE8",
+  "version": "1.0.2",
+  "description": "object polyfills to IE9",
   "scripts": {},
   "preferGlobal": false,
   "bin": {},
