@@ -1,6 +1,6 @@
 {
   "name": "blear.polyfills.object",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "object polyfills to IE9",
   "scripts": {},
   "preferGlobal": false,
@@ -9,7 +9,6 @@
     "node": ">=1.0.0",
     "iojs": ">=1.0.0"
   },
-  "main": "src/index.js",
   "keywords": [
     "blear",
     "polyfills",
